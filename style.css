@@ -55,3 +55,18 @@ body {
     font-size: 20px;
     letter-spacing: 1px;
 }
+
+.content h2, 
+.content h3 {
+    font-size: 150%;
+    margin: 20px 0;
+}
+
+.content p {
+    color: #fff;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+}
+
+
+ 
