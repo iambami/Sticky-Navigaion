@@ -69,12 +69,12 @@ nav ul {
 }
 
 .hero {
-   background-image:url('https://render.fineartamerica.com/images/rendered/search/poster/5.5/8/break/images/artworkimages/medium/3/3-feminine-desk-with-modern-touch-screen-laptop-and-rose-gold-accessories-milleflore-images.jpg');
+   background-image:url('https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: bottom center;
    height: 100vh;
-   color: #fff;
+   color: #222;
    display: flex;
    justify-content: center;
    align-items: center;
